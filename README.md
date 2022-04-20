@@ -29,7 +29,7 @@ This map shows tweets posted on April 19th at around 5:00 p.m. British Summer Ti
 ##### Conclusion
 Compared to the United Kindom and the Republic of Ireland, the United States has a relatively higher number of tweets posted on April 19th at around 10 a.m. This may indicate that there are more Twitter users in the United States than in the United Kingdom and Ireland. Similarly, all three countries have their tweets located in their major cities, such as Washington, D.C., London, and Dublin. These maps provide information that is helpful in order to understand where and when the users are most active in certain countries.
 
-### 3 Word Cloud Analysis
+### Word Cloud Analysis
 ##### Word Cloud for United States
 ![Word Art 1](/image/Wordcloud-US.png "Word Art 1") 
 Some common words on April 19th at around 9:00 a.m. Pacific Daylight Time in the United States were "Job," "Go," "Up," "Out," and "Now." Based on the time, it makes sense that many words are related to work since it is early in the morning. 
